@@ -1,1 +1,1 @@
-// Un petit commentaire
+// alert("Bonjour !");
